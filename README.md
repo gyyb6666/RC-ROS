@@ -5,4 +5,5 @@ RC-Ros是我制作的第一代基于ubuntu20.04定制的系统，可以方便大
 
 本镜像集成了ros-noetic-desktop-full，rosdepc，.vs code，.kazam，.synaptic,gazebo。
 更换了清华以及中科大的源，对部分机型添加了无线网卡驱动以适配。
+
 删除了snapd以及所有snap软件包，删除了evolution， transmission， thunderbird，rhythmbox， gnome-todo， shotwell,gnome-calender，yelp，libreoffice，多国语言，hunspell ，ibu*， mythes*。
