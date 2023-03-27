@@ -7,3 +7,5 @@ RC-Ros是我制作的第一代基于ubuntu20.04定制的系统，可以方便大
 更换了清华以及中科大的源，对部分机型添加了无线网卡驱动以适配。
 
 删除了snapd以及所有snap软件包，删除了evolution， transmission， thunderbird，rhythmbox， gnome-todo， shotwell,gnome-calender，yelp，libreoffice，多国语言，hunspell ，ibu*， mythes*。
+
+由于github推送与下载过慢，我把镜像以及一些需要的工具还有教程一起打包放在百度网盘里了。
